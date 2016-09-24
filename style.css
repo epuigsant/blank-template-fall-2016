@@ -1,0 +1,15 @@
+/*
+Theme Name: Elsie Puig Blank Template Fall 2016
+Theme URI: www.elsiepuig.com
+Author: Elsie Puig
+Description: Blank theme for WIE course
+Version: 0.1
+License: Open
+Text Domain: elsie-puig-blank-template-fall-2016
+*/
+
+*{
+    color: #000000;
+    font-size: 14px;
+    line-height: 1.5em;
+}
