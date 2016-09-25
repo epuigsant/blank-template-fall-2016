@@ -10,9 +10,46 @@ Text Domain: elsie-puig-blank-template-fall-2016
 
 @import url("stylesheets/normalize.css");
 @import url("stylesheets/skeleton.css");
+@import url("https://fonts.googleapis.com/css?family=Pavanam");
+
 
 *{
     color: #000000;
     font-size: 14px;
     line-height: 1.5em;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Pavanam', sans-serif;
+  color: #5B8F99;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.4rem;
+}
+
+h2 {
+  font-size: 2.0rem;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
+html {
+  background-color: #ffffff;
+}
+
+a {
+  color: #042C62;
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Pavanam', sans-serif;
+  width: 500px;
+  font-size: 1.6rem;
 }
