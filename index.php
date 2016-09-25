@@ -9,9 +9,9 @@
 <body>
   <div class="container">
 
-    <!-- Begin Header -->
-  
-    <!-- End Header -->
+  <!-- Begin Header -->
+    <?php get_header(); ?>
+  <!-- End Header -->
 
     <!-- Begin Section Container -->
     <section class="row">
@@ -22,14 +22,9 @@
     </section>
     <!-- End Section Container -->
 
-    <!-- Begin Footer -->
-    <footer class="row">
-      <div class="twelve column">
-        <h2>This will conclude the page.</h2>
-        <p>Made by me.</p>
-      <div>
-    </footer>
-    <!-- End Footer -->
+  <!-- Begin Footer -->
+    <?php get_header(); ?>
+  <!-- End Footer -->
 
   </div>
 </body>
