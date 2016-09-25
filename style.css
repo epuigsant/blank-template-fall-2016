@@ -8,6 +8,9 @@ License: Open
 Text Domain: elsie-puig-blank-template-fall-2016
 */
 
+@import url("stylesheets/normalize.css");
+@import url("stylesheets/skeleton.css");
+
 *{
     color: #000000;
     font-size: 14px;
