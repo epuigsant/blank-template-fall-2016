@@ -7,8 +7,7 @@
   <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>"
 </head>
 <body>
-  <div class="container">
-
+  <div class="container"> <!-- Start Container Div-->
     <header class="row">
       <div class="twelve columns">
         <h1>Blank Wordpress Template</h1>

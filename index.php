@@ -1,6 +1,4 @@
-<!-- Begin Header -->
 <?php get_header(); ?>
-<!-- End Header -->
 
     <!-- Begin Section Container -->
     <section class="row">
@@ -11,6 +9,4 @@
     </section>
     <!-- End Section Container -->
 
-<!-- Begin Footer -->
 <?php get_footer(); ?>
-<!-- End Footer -->
