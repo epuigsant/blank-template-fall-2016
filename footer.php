@@ -4,3 +4,7 @@
     <p>Made by me.</p>
   <div>
 </footer>
+
+</div>
+</body>
+</html>
