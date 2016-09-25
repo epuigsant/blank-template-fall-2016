@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Elsie Puig Blank Template</title>
+  <title><?php bloginfo('name'); ?></title>
+  <?php wp_head(); ?>
   <!--Link to stylesheet file-->
   <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>"
 </head>
@@ -10,7 +11,7 @@
   <div class="container"> <!-- Start Container Div-->
     <header class="row">
       <div class="twelve columns">
-        <h1>Blank Wordpress Template</h1>
-        <p>Your content and text goes here.</p>
+        <h1><?php bloginfo('name'); ?></h1>
+        <h2><?php bloginfo('description'); ?></h2>
       </div>
     </header>

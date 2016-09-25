@@ -1,9 +1,10 @@
     <footer class="row">
       <div class="twelve column">
-        <h2>This will conclude the page.</h2>
+        <h3>This will conclude the page.</h3>
         <p>Made by me.</p>
-      </div> <!-- End Container Div-->
+      </div>
     </footer>
-  </div>
+  </div> <!-- End Container Div-->
+  <?php wp_footer(); ?>
 </body>
 </html>
