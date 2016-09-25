@@ -7,20 +7,27 @@
   <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>"
 </head>
 <body>
-  <header>
-    <h1>Blank Wordpress Template</h1>
-    <p>Your content and text goes here.</p>
-  </header>
+  <div class="container">
+    <header class="row">
+      <div class="twelve columns">
+        <h1>Blank Wordpress Template</h1>
+        <p>Your content and text goes here.</p>
+      </div>
+    </header>
 
-  <section>
-    <h2>This Section is About This</h2>
-    <p>And we'll start out talking about this.</p>
-  </section>
+    <section class="row">
+      <div class="twelve columns">
+        <h2>This Section is About This</h2>
+        <p>And we'll start out talking about this.</p>
+      </div>
+    </section>
 
-  <footer>
-    <h2>This will conclude the page.</h2>
-    <p>Made by me.</p>
-  </footer>
-
+    <footer class="row">
+      <div class="twelve column">
+        <h2>This will conclude the page.</h2>
+        <p>Made by me.</p>
+      <div>
+    </footer>
+  </div>
 </body>
 </html>
